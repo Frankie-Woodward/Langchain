@@ -4,4 +4,4 @@ Prompting with Large Language Models using LangChain and ChatGPT
 A six module course summarizing the uses of LangChain and its compatibility with embeddings and function calls with ChatGPT.
 
 1. Summarizing Long Texts Using LangChain
-2. 
+2. Chatting with large documents, e.g. "books", using LangChain
